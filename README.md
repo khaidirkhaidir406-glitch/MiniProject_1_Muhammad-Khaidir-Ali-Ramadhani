@@ -38,6 +38,11 @@ Output Keluar dari Sistem
 
 <img width="420" height="248" alt="Screenshot 2026-09-12 164526" src="https://github.com/user-attachments/assets/a04d819b-ae26-4576-8d46-11a9c1eda1c0" />
 
+Output Jika Nomor Pilihan Tidak Valid 
+
+<img width="1302" height="459" alt="Screenshot 2026-09-12 165018" src="https://github.com/user-attachments/assets/a6d17709-c71a-438c-8556-6dbfaca22481" />
+
+
 
 
 
